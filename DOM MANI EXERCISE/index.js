@@ -1,3 +1,5 @@
+// this is a program to add to a shopping list and deleting from the same list
+
 window.addEventListener('load', () => {
     const shoppingItem = document.querySelector('#item');
     const shoppingList = document.querySelector('#list');
